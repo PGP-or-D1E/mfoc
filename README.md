@@ -1,3 +1,6 @@
+# Read-only repo. Project moved to https://github.com/nfc-tools/mfoc-hardnested
+
+
 MFOC is an open source implementation of "offline nested" attack by Nethemba.
 
 This program allow to recover authentication keys from MIFARE Classic card.
